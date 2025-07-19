@@ -1,6 +1,7 @@
-# From Tweets to Counties: An End‑to‑End Pipeline for Injustice Classification in 11 M Tweets (2020–2025)
+# Voices of Outrage: An Event Study on the Shift in Online Discourse following Notable Police Violence Deaths in the United States using a Novel Transformer-Based BERTweet Fine-Tuned Model Approach
 
-This repository houses the code for my Master’s thesis.  The project builds a complete machine‑learning pipeline that **classifies 11 million tweets for racial‑justice–related content (“injustice”) and maps results to U.S. counties**.
+This repository houses the code for my Master’s thesis.  The project builds a complete machine‑learning pipeline that **classifies xx million tweets for racial‑justice–related content (“perceived injustice” and "systemic racism") and maps results to U.S. counties** to be used in an event study setting.
+
 
 The pipeline spans **data labelling (GPT‑4), fine‑tuning a BERTweet model, large‑scale inference, geolocation, and aggregation**.  Each step is modular so you can reproduce or extend individual stages.
 
