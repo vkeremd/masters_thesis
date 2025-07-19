@@ -174,16 +174,16 @@ Feel free to run any script in isolation—each file has *docstrings* explaining
 
 ## Reproducibility
 
-*Fix your random seeds* – each script sets `torch.manual_seed(42)` but feel free to override via CLI flags.\
-If you deviate (e.g., different BERTweet checkpoint), update the experiment log in `experiments/`.
 
 ---
 
 ## Contact
+For any questions or further information, please contact:
+
 
 | Name           | Email                                                    |
 | -------------- | -------------------------------------------------------- |
-| Your Name Here | [your.email@example.com](mailto\:your.email@example.com) |
+| Vedat Kerem Demirtas | [k.demirtas@campus.lmu.de](mailto\:k.demirtas@campus.lmu.de) |
 
 Feedback, issues, and pull requests are welcome!
 
