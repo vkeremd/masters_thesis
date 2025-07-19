@@ -3,7 +3,8 @@
 This repository houses the code for my Master’s thesis.  The project builds a complete machine‑learning pipeline that **classifies xx million tweets for racial‑justice–related content (“perceived injustice” and "systemic racism") and maps results to U.S. counties** to be used in an event study setting.
 
 
-The pipeline spans **data labelling (GPT‑4), fine‑tuning a BERTweet model, large‑scale inference, geolocation, and aggregation**.  Each step is modular so you can reproduce or extend individual stages.
+Below is a step-by-step reproduction of the analysis, from data cleaning and estimation to result generation and visualization.
+
 
 ---
 
